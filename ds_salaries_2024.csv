@@ -1,0 +1,601 @@
+id,work_year,experience_level,experience_label,employment_type,employment_label,job_title,salary_usd,employee_residence,country_name,remote_ratio,remote_label,company_size,company_size_label
+1,2022,MI,Mid-level,CT,Contract,Data Science Manager,137261,NL,Netherlands,50,Hybrid,M,Medium
+2,2024,MI,Mid-level,CT,Contract,Business Intelligence Analyst,69115,GB,United Kingdom,50,Hybrid,L,Large
+3,2021,SE,Senior,PT,Part-Time,Data Engineer,30813,IN,India,100,Remote,L,Large
+4,2020,MI,Mid-level,PT,Part-Time,Senior Data Engineer,142085,FR,France,50,Hybrid,M,Medium
+5,2024,EX,Executive,FT,Full-Time,Senior Data Scientist,190909,US,United States,50,Hybrid,M,Medium
+6,2022,EX,Executive,FT,Full-Time,Machine Learning Engineer,139542,ES,Spain,100,Remote,L,Large
+7,2023,MI,Mid-level,FT,Full-Time,Analytics Engineer,97298,AU,Australia,0,On-site,M,Medium
+8,2022,EX,Executive,PT,Part-Time,BI Developer,119596,US,United States,50,Hybrid,S,Small
+9,2022,MI,Mid-level,FT,Full-Time,Senior Data Analyst,104283,US,United States,50,Hybrid,L,Large
+10,2022,SE,Senior,CT,Contract,Machine Learning Engineer,139832,US,United States,0,On-site,L,Large
+11,2022,EN,Entry-level,FT,Full-Time,BI Developer,49311,US,United States,0,On-site,M,Medium
+12,2022,MI,Mid-level,FT,Full-Time,Senior Data Analyst,25747,IN,India,50,Hybrid,M,Medium
+13,2024,EX,Executive,PT,Part-Time,Business Intelligence Analyst,76500,US,United States,100,Remote,L,Large
+14,2023,SE,Senior,FT,Full-Time,Business Intelligence Analyst,77094,GB,United Kingdom,100,Remote,M,Medium
+15,2022,MI,Mid-level,FT,Full-Time,Data Engineer,81880,US,United States,100,Remote,M,Medium
+16,2022,EX,Executive,CT,Contract,BI Developer,88512,US,United States,0,On-site,S,Small
+17,2024,EN,Entry-level,PT,Part-Time,Data Engineer,59716,DE,Germany,0,On-site,M,Medium
+18,2024,EN,Entry-level,FT,Full-Time,Data Engineer,48569,FR,France,0,On-site,M,Medium
+19,2023,EN,Entry-level,PT,Part-Time,Quantitative Analyst,92278,US,United States,100,Remote,M,Medium
+20,2022,MI,Mid-level,FT,Full-Time,Data Analyst,62813,DE,Germany,100,Remote,S,Small
+21,2023,EX,Executive,FT,Full-Time,Data Engineer,49894,IN,India,50,Hybrid,L,Large
+22,2022,EX,Executive,PT,Part-Time,Data Engineer,123195,NL,Netherlands,50,Hybrid,L,Large
+23,2024,EX,Executive,FT,Full-Time,Business Intelligence Analyst,71228,CA,Canada,50,Hybrid,M,Medium
+24,2020,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,112628,US,United States,50,Hybrid,M,Medium
+25,2023,EX,Executive,PT,Part-Time,Data Architect,230386,US,United States,50,Hybrid,S,Small
+26,2021,SE,Senior,CT,Contract,Data Architect,159194,AU,Australia,0,On-site,M,Medium
+27,2023,MI,Mid-level,FT,Full-Time,Data Analyst,32124,PT,Portugal,50,Hybrid,S,Small
+28,2024,MI,Mid-level,FT,Full-Time,Data Science Manager,108700,DE,Germany,50,Hybrid,L,Large
+29,2022,EN,Entry-level,FT,Full-Time,Data Analyst,30489,GB,United Kingdom,50,Hybrid,L,Large
+30,2021,EX,Executive,FT,Full-Time,Data Analyst,115036,US,United States,0,On-site,L,Large
+31,2024,MI,Mid-level,PT,Part-Time,Data Scientist,103372,US,United States,0,On-site,M,Medium
+32,2021,MI,Mid-level,FT,Full-Time,Senior Data Scientist,162153,US,United States,100,Remote,S,Small
+33,2022,EX,Executive,FT,Full-Time,BI Developer,83020,DE,Germany,0,On-site,M,Medium
+34,2024,SE,Senior,FT,Full-Time,Business Intelligence Analyst,19485,IN,India,50,Hybrid,S,Small
+35,2024,MI,Mid-level,FT,Full-Time,Chief Data Officer,231810,FR,France,0,On-site,L,Large
+36,2024,SE,Senior,CT,Contract,Business Intelligence Analyst,82435,US,United States,50,Hybrid,M,Medium
+37,2023,SE,Senior,FT,Full-Time,Data Engineer,112851,US,United States,0,On-site,M,Medium
+38,2023,MI,Mid-level,FT,Full-Time,Data Analyst,71082,US,United States,50,Hybrid,M,Medium
+39,2020,SE,Senior,FT,Full-Time,Senior Data Analyst,87633,DE,Germany,50,Hybrid,L,Large
+40,2023,MI,Mid-level,FT,Full-Time,Data Analyst,44990,US,United States,100,Remote,L,Large
+41,2024,SE,Senior,FT,Full-Time,BI Developer,91796,US,United States,100,Remote,L,Large
+42,2021,MI,Mid-level,CT,Contract,Data Engineer,75074,GB,United Kingdom,50,Hybrid,L,Large
+43,2021,SE,Senior,FT,Full-Time,BI Developer,102600,US,United States,100,Remote,L,Large
+44,2024,MI,Mid-level,FT,Full-Time,Analytics Engineer,84858,CA,Canada,100,Remote,M,Medium
+45,2022,EX,Executive,FT,Full-Time,Machine Learning Engineer,191153,US,United States,100,Remote,L,Large
+46,2024,MI,Mid-level,PT,Part-Time,Senior Data Analyst,64492,FR,France,0,On-site,L,Large
+47,2024,MI,Mid-level,CT,Contract,Data Engineer,91899,US,United States,100,Remote,L,Large
+48,2021,SE,Senior,FT,Full-Time,Analytics Engineer,87791,PL,Poland,100,Remote,M,Medium
+49,2023,EN,Entry-level,FT,Full-Time,Senior Data Scientist,88156,GB,United Kingdom,50,Hybrid,M,Medium
+50,2023,EX,Executive,PT,Part-Time,Data Science Manager,301466,US,United States,100,Remote,S,Small
+51,2022,SE,Senior,PT,Part-Time,Data Science Manager,222510,US,United States,50,Hybrid,L,Large
+52,2023,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,42657,DE,Germany,50,Hybrid,L,Large
+53,2021,EX,Executive,FT,Full-Time,Data Scientist,31767,IN,India,100,Remote,L,Large
+54,2022,EX,Executive,FT,Full-Time,Data Science Manager,267137,CA,Canada,100,Remote,M,Medium
+55,2020,SE,Senior,FT,Full-Time,Machine Learning Engineer,182189,CA,Canada,100,Remote,L,Large
+56,2023,EX,Executive,CT,Contract,Data Architect,175176,US,United States,50,Hybrid,M,Medium
+57,2020,SE,Senior,FT,Full-Time,Data Scientist,133565,US,United States,0,On-site,L,Large
+58,2024,MI,Mid-level,FT,Full-Time,Machine Learning Engineer,108825,US,United States,50,Hybrid,L,Large
+59,2020,EX,Executive,CT,Contract,Data Scientist,136431,US,United States,50,Hybrid,L,Large
+60,2024,SE,Senior,FT,Full-Time,Data Scientist,68900,ES,Spain,50,Hybrid,L,Large
+61,2024,EX,Executive,FT,Full-Time,Machine Learning Engineer,255053,US,United States,100,Remote,S,Small
+62,2024,MI,Mid-level,FT,Full-Time,Senior Data Engineer,131537,GB,United Kingdom,100,Remote,S,Small
+63,2024,EX,Executive,CT,Contract,Data Science Manager,245539,AU,Australia,0,On-site,M,Medium
+64,2024,EN,Entry-level,FT,Full-Time,Chief Data Officer,113890,AU,Australia,50,Hybrid,S,Small
+65,2023,EX,Executive,PT,Part-Time,Machine Learning Engineer,183788,CA,Canada,50,Hybrid,M,Medium
+66,2024,SE,Senior,FT,Full-Time,Chief Data Officer,209086,ES,Spain,0,On-site,S,Small
+67,2023,MI,Mid-level,FT,Full-Time,Data Engineer,115924,US,United States,0,On-site,S,Small
+68,2021,MI,Mid-level,FT,Full-Time,Data Engineer,81392,US,United States,50,Hybrid,M,Medium
+69,2024,SE,Senior,FT,Full-Time,Business Intelligence Analyst,80965,US,United States,50,Hybrid,M,Medium
+70,2024,EN,Entry-level,PT,Part-Time,Business Intelligence Analyst,69533,US,United States,100,Remote,M,Medium
+71,2023,EN,Entry-level,CT,Contract,Analytics Engineer,89457,GB,United Kingdom,50,Hybrid,M,Medium
+72,2022,SE,Senior,FT,Full-Time,Analytics Engineer,116628,US,United States,0,On-site,S,Small
+73,2020,EN,Entry-level,CT,Contract,Senior Data Engineer,24707,IN,India,0,On-site,S,Small
+74,2024,MI,Mid-level,CT,Contract,Senior Data Engineer,148697,AU,Australia,0,On-site,M,Medium
+75,2024,EN,Entry-level,CT,Contract,BI Developer,57397,GB,United Kingdom,100,Remote,L,Large
+76,2024,MI,Mid-level,FT,Full-Time,Data Scientist,87190,US,United States,0,On-site,M,Medium
+77,2024,EX,Executive,CT,Contract,Business Intelligence Analyst,132458,US,United States,100,Remote,M,Medium
+78,2021,EX,Executive,FT,Full-Time,Data Engineer,41758,IN,India,100,Remote,L,Large
+79,2023,MI,Mid-level,FT,Full-Time,Quantitative Analyst,143727,US,United States,100,Remote,S,Small
+80,2024,MI,Mid-level,FT,Full-Time,Data Scientist,119068,US,United States,0,On-site,M,Medium
+81,2023,EX,Executive,CT,Contract,Senior Data Engineer,124681,GR,Greece,50,Hybrid,L,Large
+82,2024,MI,Mid-level,FT,Full-Time,Quantitative Analyst,139772,US,United States,100,Remote,M,Medium
+83,2022,SE,Senior,FT,Full-Time,Chief Data Officer,91091,IN,India,100,Remote,L,Large
+84,2024,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,41878,PT,Portugal,100,Remote,M,Medium
+85,2023,EN,Entry-level,FT,Full-Time,Senior Data Analyst,44464,GR,Greece,50,Hybrid,M,Medium
+86,2024,EX,Executive,FT,Full-Time,Data Engineer,114154,GB,United Kingdom,50,Hybrid,L,Large
+87,2023,EX,Executive,CT,Contract,Data Scientist,174734,US,United States,50,Hybrid,M,Medium
+88,2024,MI,Mid-level,FT,Full-Time,Data Analyst,80753,US,United States,100,Remote,S,Small
+89,2021,MI,Mid-level,CT,Contract,Data Science Manager,134829,US,United States,0,On-site,M,Medium
+90,2023,SE,Senior,FT,Full-Time,Data Architect,134999,GB,United Kingdom,100,Remote,L,Large
+91,2024,MI,Mid-level,FT,Full-Time,Senior Data Engineer,28278,IN,India,0,On-site,L,Large
+92,2022,EX,Executive,FT,Full-Time,Data Analyst,59803,AU,Australia,100,Remote,M,Medium
+93,2022,MI,Mid-level,CT,Contract,BI Developer,45542,AU,Australia,0,On-site,M,Medium
+94,2022,EN,Entry-level,CT,Contract,Machine Learning Engineer,102215,AU,Australia,100,Remote,S,Small
+95,2020,EX,Executive,FT,Full-Time,Quantitative Analyst,197731,US,United States,0,On-site,L,Large
+96,2024,SE,Senior,FT,Full-Time,Senior Data Analyst,112248,AU,Australia,100,Remote,S,Small
+97,2022,SE,Senior,FT,Full-Time,Senior Data Engineer,61391,BR,Brazil,100,Remote,L,Large
+98,2022,SE,Senior,CT,Contract,Data Analyst,70062,DE,Germany,0,On-site,S,Small
+99,2022,EX,Executive,FT,Full-Time,Analytics Engineer,139484,US,United States,0,On-site,L,Large
+100,2022,MI,Mid-level,FT,Full-Time,Data Engineer,107278,GB,United Kingdom,0,On-site,L,Large
+101,2022,EN,Entry-level,CT,Contract,Data Engineer,25117,IN,India,50,Hybrid,S,Small
+102,2022,MI,Mid-level,CT,Contract,Quantitative Analyst,113931,US,United States,100,Remote,S,Small
+103,2024,SE,Senior,FT,Full-Time,Data Science Manager,223554,US,United States,0,On-site,M,Medium
+104,2024,EX,Executive,CT,Contract,Data Analyst,70397,US,United States,50,Hybrid,L,Large
+105,2022,SE,Senior,CT,Contract,Data Engineer,84032,FR,France,50,Hybrid,M,Medium
+106,2024,SE,Senior,FT,Full-Time,Data Architect,163935,CA,Canada,0,On-site,M,Medium
+107,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,57776,DE,Germany,0,On-site,L,Large
+108,2023,MI,Mid-level,CT,Contract,Analytics Engineer,34427,IN,India,0,On-site,L,Large
+109,2020,EX,Executive,FT,Full-Time,Senior Data Analyst,108763,US,United States,100,Remote,L,Large
+110,2022,EN,Entry-level,FT,Full-Time,Data Science Manager,91508,GB,United Kingdom,0,On-site,M,Medium
+111,2020,EN,Entry-level,CT,Contract,BI Developer,70784,US,United States,0,On-site,S,Small
+112,2020,SE,Senior,FT,Full-Time,Data Analyst,21432,IN,India,100,Remote,L,Large
+113,2024,EN,Entry-level,FT,Full-Time,Data Analyst,34398,US,United States,100,Remote,M,Medium
+114,2023,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,60299,FR,France,50,Hybrid,S,Small
+115,2024,EX,Executive,PT,Part-Time,Data Scientist,167568,GB,United Kingdom,0,On-site,M,Medium
+116,2022,EX,Executive,FT,Full-Time,Data Scientist,36065,IN,India,0,On-site,M,Medium
+117,2023,MI,Mid-level,FT,Full-Time,Data Science Manager,129399,GB,United Kingdom,0,On-site,M,Medium
+118,2020,EN,Entry-level,FT,Full-Time,Senior Data Analyst,52150,ES,Spain,100,Remote,L,Large
+119,2022,EN,Entry-level,FT,Full-Time,Data Science Manager,131210,US,United States,50,Hybrid,L,Large
+120,2024,MI,Mid-level,FT,Full-Time,Data Analyst,84696,US,United States,0,On-site,M,Medium
+121,2020,MI,Mid-level,FT,Full-Time,Senior Data Engineer,27120,IN,India,100,Remote,L,Large
+122,2020,EX,Executive,PT,Part-Time,Data Scientist,157094,AU,Australia,100,Remote,S,Small
+123,2024,MI,Mid-level,FT,Full-Time,Analytics Engineer,86844,FR,France,100,Remote,L,Large
+124,2024,EX,Executive,FT,Full-Time,Data Analyst,95886,AU,Australia,100,Remote,M,Medium
+125,2020,EX,Executive,FT,Full-Time,Data Scientist,152915,NL,Netherlands,0,On-site,M,Medium
+126,2024,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,79515,AU,Australia,50,Hybrid,M,Medium
+127,2023,EN,Entry-level,FT,Full-Time,Senior Data Analyst,18707,IN,India,0,On-site,L,Large
+128,2024,SE,Senior,CT,Contract,Data Analyst,52181,US,United States,50,Hybrid,L,Large
+129,2021,SE,Senior,FT,Full-Time,Senior Data Engineer,136954,US,United States,0,On-site,M,Medium
+130,2020,SE,Senior,PT,Part-Time,Senior Data Analyst,68678,FR,France,0,On-site,M,Medium
+131,2020,EN,Entry-level,FT,Full-Time,Data Analyst,44242,US,United States,100,Remote,S,Small
+132,2021,EN,Entry-level,CT,Contract,Business Intelligence Analyst,52677,CA,Canada,50,Hybrid,L,Large
+133,2024,EX,Executive,FT,Full-Time,Senior Data Scientist,231485,NL,Netherlands,0,On-site,L,Large
+134,2021,EX,Executive,FT,Full-Time,Data Scientist,143225,US,United States,50,Hybrid,S,Small
+135,2023,MI,Mid-level,FT,Full-Time,Data Engineer,121482,US,United States,0,On-site,M,Medium
+136,2020,EN,Entry-level,FT,Full-Time,Data Analyst,50716,US,United States,50,Hybrid,S,Small
+137,2024,SE,Senior,CT,Contract,Business Intelligence Analyst,57888,CA,Canada,50,Hybrid,M,Medium
+138,2023,MI,Mid-level,PT,Part-Time,Data Analyst,27123,BR,Brazil,100,Remote,L,Large
+139,2023,EX,Executive,PT,Part-Time,Chief Data Officer,310052,US,United States,100,Remote,M,Medium
+140,2024,EX,Executive,FT,Full-Time,Data Analyst,42430,PT,Portugal,100,Remote,L,Large
+141,2024,EX,Executive,FT,Full-Time,Business Intelligence Analyst,83025,US,United States,100,Remote,L,Large
+142,2020,SE,Senior,FT,Full-Time,Data Scientist,136929,US,United States,50,Hybrid,M,Medium
+143,2024,EX,Executive,FT,Full-Time,Senior Data Engineer,289973,US,United States,50,Hybrid,L,Large
+144,2023,EN,Entry-level,CT,Contract,Senior Data Analyst,62930,US,United States,0,On-site,L,Large
+145,2022,SE,Senior,FT,Full-Time,Machine Learning Engineer,50209,IN,India,100,Remote,M,Medium
+146,2020,SE,Senior,FT,Full-Time,Analytics Engineer,85304,GB,United Kingdom,100,Remote,M,Medium
+147,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,96489,US,United States,50,Hybrid,L,Large
+148,2022,EX,Executive,FT,Full-Time,Data Architect,67974,BR,Brazil,0,On-site,S,Small
+149,2020,SE,Senior,PT,Part-Time,Data Science Manager,148261,DE,Germany,50,Hybrid,M,Medium
+150,2022,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,13596,IN,India,50,Hybrid,L,Large
+151,2021,EN,Entry-level,FT,Full-Time,Data Science Manager,149625,US,United States,0,On-site,M,Medium
+152,2023,EX,Executive,CT,Contract,Machine Learning Engineer,219986,US,United States,0,On-site,L,Large
+153,2021,EN,Entry-level,FT,Full-Time,Senior Data Scientist,86396,DE,Germany,100,Remote,M,Medium
+154,2022,SE,Senior,CT,Contract,Data Architect,128899,CA,Canada,0,On-site,S,Small
+155,2024,MI,Mid-level,FT,Full-Time,Data Analyst,14682,IN,India,100,Remote,S,Small
+156,2023,EN,Entry-level,FT,Full-Time,Data Analyst,11123,IN,India,0,On-site,S,Small
+157,2020,EN,Entry-level,FT,Full-Time,Data Analyst,35709,US,United States,0,On-site,M,Medium
+158,2024,EN,Entry-level,PT,Part-Time,Data Scientist,65035,US,United States,100,Remote,L,Large
+159,2021,EN,Entry-level,FT,Full-Time,Senior Data Analyst,65079,US,United States,50,Hybrid,M,Medium
+160,2023,SE,Senior,FT,Full-Time,Senior Data Analyst,80647,NL,Netherlands,0,On-site,M,Medium
+161,2021,SE,Senior,PT,Part-Time,Data Analyst,88052,GB,United Kingdom,50,Hybrid,S,Small
+162,2024,MI,Mid-level,CT,Contract,Business Intelligence Analyst,60579,US,United States,0,On-site,M,Medium
+163,2024,EX,Executive,FT,Full-Time,Quantitative Analyst,81180,PT,Portugal,50,Hybrid,M,Medium
+164,2024,MI,Mid-level,FT,Full-Time,Chief Data Officer,163157,GB,United Kingdom,0,On-site,M,Medium
+165,2024,EX,Executive,FT,Full-Time,Senior Data Scientist,193305,FR,France,100,Remote,M,Medium
+166,2024,SE,Senior,FT,Full-Time,Data Scientist,148713,US,United States,0,On-site,S,Small
+167,2021,EX,Executive,CT,Contract,Senior Data Analyst,148190,AU,Australia,0,On-site,S,Small
+168,2024,SE,Senior,FT,Full-Time,Business Intelligence Analyst,17231,IN,India,0,On-site,M,Medium
+169,2022,EX,Executive,CT,Contract,Quantitative Analyst,140123,DE,Germany,50,Hybrid,S,Small
+170,2023,MI,Mid-level,FT,Full-Time,Data Analyst,68436,US,United States,0,On-site,L,Large
+171,2022,SE,Senior,FT,Full-Time,Machine Learning Engineer,144829,GB,United Kingdom,0,On-site,L,Large
+172,2024,MI,Mid-level,FT,Full-Time,Quantitative Analyst,75882,ES,Spain,100,Remote,M,Medium
+173,2024,EN,Entry-level,FT,Full-Time,BI Developer,58143,US,United States,100,Remote,S,Small
+174,2021,SE,Senior,CT,Contract,Quantitative Analyst,119412,US,United States,0,On-site,M,Medium
+175,2022,MI,Mid-level,FT,Full-Time,BI Developer,55655,US,United States,50,Hybrid,L,Large
+176,2022,MI,Mid-level,FT,Full-Time,Machine Learning Engineer,110626,AU,Australia,0,On-site,L,Large
+177,2020,SE,Senior,FT,Full-Time,Data Analyst,68212,DE,Germany,50,Hybrid,L,Large
+178,2024,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,83446,US,United States,0,On-site,S,Small
+179,2020,EN,Entry-level,FT,Full-Time,Data Analyst,9727,IN,India,0,On-site,M,Medium
+180,2023,EN,Entry-level,PT,Part-Time,Senior Data Scientist,139969,US,United States,100,Remote,M,Medium
+181,2021,SE,Senior,FT,Full-Time,Business Intelligence Analyst,75038,DE,Germany,100,Remote,M,Medium
+182,2024,SE,Senior,CT,Contract,Data Analyst,93632,US,United States,50,Hybrid,S,Small
+183,2024,SE,Senior,FT,Full-Time,Quantitative Analyst,165654,GB,United Kingdom,0,On-site,L,Large
+184,2021,EX,Executive,CT,Contract,Senior Data Engineer,213115,US,United States,100,Remote,S,Small
+185,2021,EN,Entry-level,CT,Contract,Data Architect,63186,ES,Spain,50,Hybrid,S,Small
+186,2023,EN,Entry-level,CT,Contract,Senior Data Analyst,71088,CA,Canada,50,Hybrid,M,Medium
+187,2022,EX,Executive,FT,Full-Time,Data Architect,162205,GB,United Kingdom,100,Remote,M,Medium
+188,2024,MI,Mid-level,FT,Full-Time,Data Engineer,112825,US,United States,50,Hybrid,S,Small
+189,2024,EX,Executive,PT,Part-Time,Data Analyst,109319,US,United States,100,Remote,M,Medium
+190,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,85863,GB,United Kingdom,0,On-site,M,Medium
+191,2021,MI,Mid-level,PT,Part-Time,Data Analyst,83007,US,United States,50,Hybrid,S,Small
+192,2024,EN,Entry-level,PT,Part-Time,Quantitative Analyst,91375,US,United States,0,On-site,M,Medium
+193,2023,EX,Executive,FT,Full-Time,Business Intelligence Analyst,124312,US,United States,100,Remote,L,Large
+194,2024,EN,Entry-level,CT,Contract,Data Analyst,57277,US,United States,100,Remote,S,Small
+195,2022,EX,Executive,CT,Contract,Data Analyst,68229,US,United States,0,On-site,L,Large
+196,2022,EN,Entry-level,FT,Full-Time,Senior Data Scientist,86326,NL,Netherlands,50,Hybrid,L,Large
+197,2024,EN,Entry-level,CT,Contract,Data Scientist,84486,US,United States,0,On-site,L,Large
+198,2022,EX,Executive,FT,Full-Time,Data Scientist,49955,IN,India,100,Remote,S,Small
+199,2021,MI,Mid-level,PT,Part-Time,Senior Data Engineer,40535,IN,India,50,Hybrid,L,Large
+200,2022,EN,Entry-level,CT,Contract,Senior Data Analyst,85578,US,United States,100,Remote,M,Medium
+201,2023,EN,Entry-level,FT,Full-Time,Senior Data Scientist,107772,US,United States,0,On-site,S,Small
+202,2023,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,59634,US,United States,0,On-site,L,Large
+203,2020,EN,Entry-level,PT,Part-Time,Senior Data Engineer,92486,US,United States,50,Hybrid,L,Large
+204,2021,MI,Mid-level,FT,Full-Time,Machine Learning Engineer,158658,US,United States,0,On-site,M,Medium
+205,2024,EN,Entry-level,CT,Contract,Senior Data Engineer,84435,US,United States,0,On-site,L,Large
+206,2023,EX,Executive,FT,Full-Time,Machine Learning Engineer,136730,AU,Australia,50,Hybrid,S,Small
+207,2024,SE,Senior,CT,Contract,Chief Data Officer,197439,GB,United Kingdom,100,Remote,M,Medium
+208,2024,MI,Mid-level,FT,Full-Time,Senior Data Scientist,105222,IT,Italy,0,On-site,S,Small
+209,2022,MI,Mid-level,CT,Contract,Business Intelligence Analyst,60454,DE,Germany,0,On-site,L,Large
+210,2022,MI,Mid-level,FT,Full-Time,Data Architect,41637,IN,India,0,On-site,M,Medium
+211,2023,MI,Mid-level,FT,Full-Time,Senior Data Scientist,109007,DE,Germany,0,On-site,S,Small
+212,2020,MI,Mid-level,CT,Contract,Chief Data Officer,169303,US,United States,0,On-site,L,Large
+213,2023,EX,Executive,FT,Full-Time,Data Science Manager,190692,DE,Germany,0,On-site,M,Medium
+214,2024,EX,Executive,FT,Full-Time,Chief Data Officer,333186,US,United States,100,Remote,S,Small
+215,2022,EN,Entry-level,CT,Contract,Data Science Manager,118923,GB,United Kingdom,0,On-site,L,Large
+216,2024,EX,Executive,FT,Full-Time,Data Engineer,175292,CA,Canada,50,Hybrid,L,Large
+217,2024,EN,Entry-level,FT,Full-Time,Data Analyst,50218,US,United States,0,On-site,L,Large
+218,2024,SE,Senior,CT,Contract,Data Analyst,87805,US,United States,50,Hybrid,S,Small
+219,2022,EX,Executive,FT,Full-Time,Data Science Manager,199410,GB,United Kingdom,100,Remote,S,Small
+220,2024,SE,Senior,FT,Full-Time,Data Architect,140670,US,United States,100,Remote,M,Medium
+221,2024,EN,Entry-level,CT,Contract,Business Intelligence Analyst,53784,DE,Germany,50,Hybrid,M,Medium
+222,2023,EX,Executive,PT,Part-Time,Data Science Manager,279258,US,United States,100,Remote,M,Medium
+223,2023,EN,Entry-level,FT,Full-Time,Data Architect,92568,DE,Germany,0,On-site,M,Medium
+224,2020,EN,Entry-level,PT,Part-Time,Analytics Engineer,79164,DE,Germany,0,On-site,M,Medium
+225,2022,EX,Executive,FT,Full-Time,Data Scientist,198231,US,United States,100,Remote,M,Medium
+226,2024,SE,Senior,PT,Part-Time,Data Architect,111803,FR,France,50,Hybrid,L,Large
+227,2024,EN,Entry-level,FT,Full-Time,Business Intelligence Analyst,40331,US,United States,50,Hybrid,L,Large
+228,2023,EX,Executive,PT,Part-Time,Business Intelligence Analyst,74083,CA,Canada,100,Remote,S,Small
+229,2021,MI,Mid-level,FT,Full-Time,Senior Data Analyst,24892,IN,India,100,Remote,L,Large
+230,2023,EX,Executive,FT,Full-Time,Chief Data Officer,279447,US,United States,100,Remote,L,Large
+231,2023,EN,Entry-level,PT,Part-Time,Senior Data Engineer,94732,AU,Australia,0,On-site,L,Large
+232,2020,EX,Executive,FT,Full-Time,Senior Data Engineer,113645,PT,Portugal,100,Remote,L,Large
+233,2024,EX,Executive,PT,Part-Time,Data Engineer,159311,US,United States,0,On-site,M,Medium
+234,2020,EN,Entry-level,CT,Contract,Data Analyst,61737,US,United States,100,Remote,L,Large
+235,2022,EX,Executive,PT,Part-Time,Senior Data Scientist,231520,NL,Netherlands,100,Remote,M,Medium
+236,2021,EN,Entry-level,FT,Full-Time,Senior Data Engineer,76707,GB,United Kingdom,50,Hybrid,M,Medium
+237,2021,MI,Mid-level,FT,Full-Time,Senior Data Analyst,88374,US,United States,50,Hybrid,S,Small
+238,2024,EX,Executive,FT,Full-Time,Data Scientist,174350,US,United States,0,On-site,L,Large
+239,2022,EN,Entry-level,FT,Full-Time,Senior Data Analyst,60394,DE,Germany,50,Hybrid,M,Medium
+240,2022,EX,Executive,FT,Full-Time,Senior Data Analyst,151835,US,United States,0,On-site,L,Large
+241,2020,SE,Senior,PT,Part-Time,Data Engineer,101350,US,United States,100,Remote,L,Large
+242,2024,SE,Senior,FT,Full-Time,Senior Data Engineer,186479,US,United States,50,Hybrid,S,Small
+243,2022,MI,Mid-level,FT,Full-Time,Quantitative Analyst,35157,IN,India,100,Remote,M,Medium
+244,2023,MI,Mid-level,FT,Full-Time,Quantitative Analyst,53796,BR,Brazil,0,On-site,S,Small
+245,2020,MI,Mid-level,PT,Part-Time,Data Engineer,110655,US,United States,100,Remote,S,Small
+246,2023,SE,Senior,FT,Full-Time,Business Intelligence Analyst,51172,AU,Australia,100,Remote,S,Small
+247,2022,MI,Mid-level,FT,Full-Time,Analytics Engineer,107702,FR,France,50,Hybrid,M,Medium
+248,2021,EX,Executive,PT,Part-Time,BI Developer,134019,US,United States,50,Hybrid,S,Small
+249,2022,SE,Senior,PT,Part-Time,Data Analyst,86938,GB,United Kingdom,50,Hybrid,L,Large
+250,2023,EX,Executive,PT,Part-Time,Quantitative Analyst,251087,US,United States,50,Hybrid,L,Large
+251,2023,MI,Mid-level,FT,Full-Time,Analytics Engineer,111384,GB,United Kingdom,50,Hybrid,L,Large
+252,2023,MI,Mid-level,FT,Full-Time,Chief Data Officer,225425,NL,Netherlands,100,Remote,M,Medium
+253,2024,EN,Entry-level,PT,Part-Time,Data Engineer,79260,FR,France,0,On-site,L,Large
+254,2021,SE,Senior,CT,Contract,Data Analyst,66430,US,United States,0,On-site,M,Medium
+255,2023,EX,Executive,CT,Contract,Data Architect,195720,US,United States,0,On-site,L,Large
+256,2023,MI,Mid-level,FT,Full-Time,Data Analyst,47007,AU,Australia,0,On-site,M,Medium
+257,2020,MI,Mid-level,FT,Full-Time,Data Engineer,80756,US,United States,50,Hybrid,L,Large
+258,2023,SE,Senior,FT,Full-Time,Data Scientist,164080,US,United States,50,Hybrid,L,Large
+259,2022,MI,Mid-level,FT,Full-Time,Data Analyst,54577,US,United States,50,Hybrid,L,Large
+260,2022,MI,Mid-level,FT,Full-Time,Analytics Engineer,134563,US,United States,50,Hybrid,M,Medium
+261,2022,MI,Mid-level,FT,Full-Time,Senior Data Scientist,123270,CA,Canada,50,Hybrid,L,Large
+262,2024,EN,Entry-level,FT,Full-Time,Chief Data Officer,118192,ES,Spain,50,Hybrid,L,Large
+263,2022,EX,Executive,FT,Full-Time,Data Engineer,46660,IN,India,50,Hybrid,L,Large
+264,2024,EX,Executive,PT,Part-Time,BI Developer,80166,US,United States,100,Remote,L,Large
+265,2020,MI,Mid-level,FT,Full-Time,Data Scientist,108202,AU,Australia,50,Hybrid,S,Small
+266,2022,SE,Senior,FT,Full-Time,Quantitative Analyst,102148,CA,Canada,100,Remote,S,Small
+267,2021,EX,Executive,FT,Full-Time,Analytics Engineer,173997,AU,Australia,50,Hybrid,M,Medium
+268,2022,EX,Executive,CT,Contract,Data Analyst,75101,US,United States,100,Remote,M,Medium
+269,2023,EX,Executive,FT,Full-Time,Data Engineer,97934,PT,Portugal,100,Remote,M,Medium
+270,2020,EX,Executive,FT,Full-Time,Data Scientist,37634,IN,India,0,On-site,M,Medium
+271,2020,EN,Entry-level,FT,Full-Time,Data Analyst,55381,US,United States,0,On-site,M,Medium
+272,2022,MI,Mid-level,FT,Full-Time,Data Analyst,42453,DE,Germany,50,Hybrid,M,Medium
+273,2024,SE,Senior,CT,Contract,Data Architect,155656,DE,Germany,50,Hybrid,L,Large
+274,2023,EX,Executive,FT,Full-Time,Senior Data Scientist,145590,GB,United Kingdom,0,On-site,L,Large
+275,2020,EX,Executive,CT,Contract,Quantitative Analyst,117487,IT,Italy,0,On-site,M,Medium
+276,2022,MI,Mid-level,FT,Full-Time,Data Engineer,89959,US,United States,50,Hybrid,M,Medium
+277,2024,SE,Senior,CT,Contract,Senior Data Engineer,130419,DE,Germany,100,Remote,M,Medium
+278,2022,EN,Entry-level,PT,Part-Time,Senior Data Analyst,82198,US,United States,0,On-site,L,Large
+279,2023,SE,Senior,FT,Full-Time,Data Analyst,80466,US,United States,100,Remote,S,Small
+280,2021,SE,Senior,FT,Full-Time,Data Analyst,81675,AU,Australia,100,Remote,M,Medium
+281,2024,MI,Mid-level,CT,Contract,Senior Data Analyst,79623,DE,Germany,0,On-site,S,Small
+282,2021,SE,Senior,FT,Full-Time,Senior Data Scientist,197769,US,United States,100,Remote,S,Small
+283,2024,SE,Senior,PT,Part-Time,Analytics Engineer,141141,GB,United Kingdom,0,On-site,M,Medium
+284,2021,SE,Senior,FT,Full-Time,Data Analyst,77809,US,United States,100,Remote,M,Medium
+285,2022,EN,Entry-level,FT,Full-Time,Quantitative Analyst,57187,PT,Portugal,50,Hybrid,L,Large
+286,2021,EN,Entry-level,FT,Full-Time,Data Engineer,92697,US,United States,0,On-site,M,Medium
+287,2024,EX,Executive,CT,Contract,Quantitative Analyst,231023,US,United States,100,Remote,M,Medium
+288,2024,MI,Mid-level,FT,Full-Time,Data Analyst,59986,US,United States,0,On-site,S,Small
+289,2022,EN,Entry-level,FT,Full-Time,Data Scientist,44446,IT,Italy,0,On-site,L,Large
+290,2021,EX,Executive,FT,Full-Time,Business Intelligence Analyst,75166,US,United States,100,Remote,L,Large
+291,2021,EN,Entry-level,PT,Part-Time,Senior Data Analyst,34119,PT,Portugal,100,Remote,S,Small
+292,2024,EX,Executive,FT,Full-Time,Chief Data Officer,350709,US,United States,50,Hybrid,L,Large
+293,2022,EX,Executive,FT,Full-Time,Data Scientist,141039,GB,United Kingdom,0,On-site,L,Large
+294,2022,MI,Mid-level,FT,Full-Time,Analytics Engineer,93030,US,United States,50,Hybrid,L,Large
+295,2021,MI,Mid-level,FT,Full-Time,Analytics Engineer,97511,US,United States,0,On-site,M,Medium
+296,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,74970,FR,France,100,Remote,S,Small
+297,2023,SE,Senior,FT,Full-Time,Data Science Manager,146282,US,United States,100,Remote,M,Medium
+298,2020,SE,Senior,FT,Full-Time,Senior Data Analyst,33493,IN,India,50,Hybrid,M,Medium
+299,2024,SE,Senior,FT,Full-Time,Data Analyst,84746,GB,United Kingdom,100,Remote,S,Small
+300,2022,EN,Entry-level,CT,Contract,Machine Learning Engineer,114366,US,United States,50,Hybrid,M,Medium
+301,2024,MI,Mid-level,CT,Contract,Data Engineer,86323,NL,Netherlands,50,Hybrid,S,Small
+302,2020,SE,Senior,FT,Full-Time,Business Intelligence Analyst,95227,US,United States,0,On-site,L,Large
+303,2022,EX,Executive,FT,Full-Time,Data Engineer,178938,US,United States,0,On-site,S,Small
+304,2024,MI,Mid-level,FT,Full-Time,Analytics Engineer,107761,FR,France,50,Hybrid,L,Large
+305,2024,EN,Entry-level,CT,Contract,Data Analyst,36410,GB,United Kingdom,100,Remote,M,Medium
+306,2022,MI,Mid-level,FT,Full-Time,Data Analyst,43230,GB,United Kingdom,100,Remote,S,Small
+307,2021,MI,Mid-level,FT,Full-Time,Data Architect,66162,GR,Greece,50,Hybrid,S,Small
+308,2023,EN,Entry-level,FT,Full-Time,Analytics Engineer,16681,IN,India,50,Hybrid,L,Large
+309,2023,EN,Entry-level,FT,Full-Time,BI Developer,32877,GB,United Kingdom,50,Hybrid,M,Medium
+310,2021,EN,Entry-level,FT,Full-Time,BI Developer,54187,GB,United Kingdom,100,Remote,M,Medium
+311,2024,EN,Entry-level,FT,Full-Time,Data Architect,71425,DE,Germany,0,On-site,L,Large
+312,2021,EN,Entry-level,FT,Full-Time,BI Developer,47955,DE,Germany,100,Remote,L,Large
+313,2024,MI,Mid-level,PT,Part-Time,Senior Data Analyst,91785,US,United States,0,On-site,M,Medium
+314,2024,SE,Senior,FT,Full-Time,Data Analyst,57730,US,United States,0,On-site,L,Large
+315,2024,EN,Entry-level,FT,Full-Time,Data Analyst,47696,US,United States,100,Remote,M,Medium
+316,2024,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,75902,AU,Australia,50,Hybrid,S,Small
+317,2023,SE,Senior,FT,Full-Time,Data Scientist,96123,NL,Netherlands,50,Hybrid,M,Medium
+318,2021,MI,Mid-level,CT,Contract,Data Scientist,102777,DE,Germany,0,On-site,M,Medium
+319,2022,MI,Mid-level,FT,Full-Time,Data Engineer,113789,US,United States,0,On-site,L,Large
+320,2023,EX,Executive,FT,Full-Time,Data Architect,160322,GB,United Kingdom,0,On-site,L,Large
+321,2022,EX,Executive,CT,Contract,Data Architect,166930,GB,United Kingdom,100,Remote,S,Small
+322,2020,EN,Entry-level,FT,Full-Time,Data Science Manager,92284,CA,Canada,100,Remote,L,Large
+323,2023,MI,Mid-level,FT,Full-Time,Data Science Manager,197605,US,United States,50,Hybrid,M,Medium
+324,2023,EX,Executive,FT,Full-Time,Chief Data Officer,218369,DE,Germany,50,Hybrid,M,Medium
+325,2022,EN,Entry-level,PT,Part-Time,Data Engineer,72779,CA,Canada,0,On-site,S,Small
+326,2021,EN,Entry-level,FT,Full-Time,Data Engineer,59455,ES,Spain,100,Remote,L,Large
+327,2024,MI,Mid-level,FT,Full-Time,Data Analyst,14396,IN,India,0,On-site,L,Large
+328,2024,MI,Mid-level,FT,Full-Time,Chief Data Officer,198967,US,United States,0,On-site,M,Medium
+329,2024,SE,Senior,FT,Full-Time,Data Analyst,73979,US,United States,100,Remote,M,Medium
+330,2021,MI,Mid-level,FT,Full-Time,Chief Data Officer,210459,DE,Germany,100,Remote,S,Small
+331,2024,EX,Executive,FT,Full-Time,Quantitative Analyst,113688,ES,Spain,50,Hybrid,L,Large
+332,2023,EX,Executive,CT,Contract,Senior Data Engineer,42818,IN,India,100,Remote,M,Medium
+333,2022,EN,Entry-level,CT,Contract,Data Engineer,73605,NL,Netherlands,50,Hybrid,M,Medium
+334,2022,EX,Executive,FT,Full-Time,Senior Data Analyst,135475,DE,Germany,100,Remote,M,Medium
+335,2024,MI,Mid-level,FT,Full-Time,BI Developer,93901,US,United States,50,Hybrid,L,Large
+336,2020,EN,Entry-level,CT,Contract,Business Intelligence Analyst,52855,US,United States,100,Remote,S,Small
+337,2021,EN,Entry-level,FT,Full-Time,Senior Data Analyst,59320,US,United States,50,Hybrid,M,Medium
+338,2022,EX,Executive,FT,Full-Time,Senior Data Analyst,160091,CA,Canada,100,Remote,L,Large
+339,2022,MI,Mid-level,FT,Full-Time,Data Analyst,79610,US,United States,50,Hybrid,M,Medium
+340,2024,SE,Senior,FT,Full-Time,Senior Data Analyst,122326,US,United States,50,Hybrid,L,Large
+341,2024,SE,Senior,FT,Full-Time,Data Scientist,139628,US,United States,50,Hybrid,L,Large
+342,2021,MI,Mid-level,PT,Part-Time,Data Analyst,57677,NL,Netherlands,0,On-site,M,Medium
+343,2023,MI,Mid-level,CT,Contract,Data Analyst,65380,CA,Canada,50,Hybrid,M,Medium
+344,2023,EX,Executive,PT,Part-Time,Senior Data Engineer,280729,US,United States,50,Hybrid,S,Small
+345,2022,EX,Executive,CT,Contract,Chief Data Officer,387951,GB,United Kingdom,100,Remote,M,Medium
+346,2024,EX,Executive,CT,Contract,Data Engineer,147984,US,United States,100,Remote,L,Large
+347,2024,EX,Executive,FT,Full-Time,Data Science Manager,254616,NL,Netherlands,50,Hybrid,S,Small
+348,2022,SE,Senior,FT,Full-Time,Machine Learning Engineer,86815,FR,France,100,Remote,M,Medium
+349,2023,EX,Executive,FT,Full-Time,Business Intelligence Analyst,97766,GB,United Kingdom,0,On-site,L,Large
+350,2024,MI,Mid-level,FT,Full-Time,Data Analyst,39714,GB,United Kingdom,100,Remote,M,Medium
+351,2020,SE,Senior,FT,Full-Time,Data Engineer,166018,US,United States,50,Hybrid,L,Large
+352,2022,EX,Executive,FT,Full-Time,Data Engineer,163903,US,United States,0,On-site,L,Large
+353,2022,EN,Entry-level,PT,Part-Time,Machine Learning Engineer,74261,PT,Portugal,0,On-site,M,Medium
+354,2024,MI,Mid-level,FT,Full-Time,Data Analyst,16060,IN,India,100,Remote,L,Large
+355,2021,EN,Entry-level,FT,Full-Time,Data Engineer,87406,GB,United Kingdom,0,On-site,L,Large
+356,2024,MI,Mid-level,PT,Part-Time,Data Architect,70684,PT,Portugal,0,On-site,L,Large
+357,2022,MI,Mid-level,FT,Full-Time,Data Analyst,71030,US,United States,100,Remote,M,Medium
+358,2020,EN,Entry-level,PT,Part-Time,Data Analyst,46111,US,United States,100,Remote,M,Medium
+359,2021,SE,Senior,FT,Full-Time,Data Architect,120443,AU,Australia,0,On-site,L,Large
+360,2024,EX,Executive,FT,Full-Time,Data Analyst,89247,US,United States,0,On-site,L,Large
+361,2024,MI,Mid-level,FT,Full-Time,Quantitative Analyst,129283,NL,Netherlands,100,Remote,S,Small
+362,2023,SE,Senior,FT,Full-Time,Data Architect,203748,US,United States,50,Hybrid,L,Large
+363,2021,MI,Mid-level,CT,Contract,Business Intelligence Analyst,77868,US,United States,100,Remote,M,Medium
+364,2023,SE,Senior,PT,Part-Time,Data Science Manager,145526,US,United States,100,Remote,S,Small
+365,2022,MI,Mid-level,FT,Full-Time,BI Developer,33349,PT,Portugal,0,On-site,S,Small
+366,2024,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,59571,US,United States,0,On-site,S,Small
+367,2024,MI,Mid-level,PT,Part-Time,Senior Data Engineer,114831,US,United States,100,Remote,L,Large
+368,2020,EX,Executive,CT,Contract,Data Engineer,181977,US,United States,50,Hybrid,S,Small
+369,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,95922,US,United States,0,On-site,L,Large
+370,2024,SE,Senior,CT,Contract,Analytics Engineer,91833,GR,Greece,100,Remote,M,Medium
+371,2021,SE,Senior,PT,Part-Time,Data Science Manager,45178,IN,India,100,Remote,L,Large
+372,2022,MI,Mid-level,FT,Full-Time,Data Engineer,87780,US,United States,50,Hybrid,M,Medium
+373,2022,EX,Executive,CT,Contract,Senior Data Engineer,146610,GB,United Kingdom,0,On-site,M,Medium
+374,2023,EX,Executive,FT,Full-Time,Senior Data Scientist,275514,US,United States,100,Remote,S,Small
+375,2023,MI,Mid-level,FT,Full-Time,Data Engineer,101913,GB,United Kingdom,0,On-site,L,Large
+376,2024,MI,Mid-level,FT,Full-Time,Data Analyst,55997,FR,France,0,On-site,L,Large
+377,2022,EX,Executive,CT,Contract,Analytics Engineer,160708,US,United States,100,Remote,M,Medium
+378,2020,SE,Senior,FT,Full-Time,BI Developer,87083,US,United States,0,On-site,L,Large
+379,2024,SE,Senior,CT,Contract,Data Engineer,88676,FR,France,50,Hybrid,M,Medium
+380,2023,EX,Executive,FT,Full-Time,Chief Data Officer,379535,GB,United Kingdom,50,Hybrid,L,Large
+381,2022,MI,Mid-level,FT,Full-Time,Data Analyst,59759,DE,Germany,0,On-site,M,Medium
+382,2023,MI,Mid-level,FT,Full-Time,Senior Data Engineer,108049,GB,United Kingdom,50,Hybrid,M,Medium
+383,2023,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,113391,US,United States,100,Remote,M,Medium
+384,2024,MI,Mid-level,FT,Full-Time,Analytics Engineer,84906,GB,United Kingdom,50,Hybrid,L,Large
+385,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,108896,US,United States,100,Remote,L,Large
+386,2024,MI,Mid-level,FT,Full-Time,Quantitative Analyst,114541,US,United States,100,Remote,M,Medium
+387,2024,EX,Executive,CT,Contract,Business Intelligence Analyst,82923,DE,Germany,0,On-site,M,Medium
+388,2024,EN,Entry-level,CT,Contract,Data Architect,100370,US,United States,100,Remote,L,Large
+389,2022,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,51009,ES,Spain,50,Hybrid,M,Medium
+390,2021,EN,Entry-level,FT,Full-Time,Data Analyst,28457,NL,Netherlands,100,Remote,M,Medium
+391,2022,MI,Mid-level,PT,Part-Time,Data Engineer,113814,AU,Australia,50,Hybrid,M,Medium
+392,2024,MI,Mid-level,CT,Contract,Senior Data Engineer,144078,NL,Netherlands,50,Hybrid,L,Large
+393,2020,SE,Senior,FT,Full-Time,Senior Data Scientist,160128,US,United States,0,On-site,M,Medium
+394,2024,SE,Senior,FT,Full-Time,Machine Learning Engineer,173501,US,United States,0,On-site,S,Small
+395,2024,SE,Senior,CT,Contract,Data Scientist,123114,GB,United Kingdom,50,Hybrid,L,Large
+396,2023,SE,Senior,FT,Full-Time,Data Science Manager,131779,DE,Germany,100,Remote,L,Large
+397,2024,MI,Mid-level,CT,Contract,Data Analyst,42946,NL,Netherlands,100,Remote,S,Small
+398,2022,SE,Senior,PT,Part-Time,BI Developer,92526,GB,United Kingdom,50,Hybrid,L,Large
+399,2021,MI,Mid-level,FT,Full-Time,Quantitative Analyst,68556,ES,Spain,100,Remote,M,Medium
+400,2024,EX,Executive,CT,Contract,Senior Data Analyst,165806,US,United States,100,Remote,L,Large
+401,2022,EX,Executive,FT,Full-Time,Chief Data Officer,72980,IN,India,0,On-site,L,Large
+402,2021,EX,Executive,FT,Full-Time,Data Science Manager,162523,DE,Germany,100,Remote,M,Medium
+403,2024,EX,Executive,CT,Contract,Data Scientist,183824,US,United States,0,On-site,S,Small
+404,2024,EN,Entry-level,FT,Full-Time,Senior Data Analyst,72847,US,United States,100,Remote,M,Medium
+405,2023,EN,Entry-level,CT,Contract,Quantitative Analyst,110304,US,United States,50,Hybrid,L,Large
+406,2021,EN,Entry-level,FT,Full-Time,Data Engineer,43934,IT,Italy,100,Remote,S,Small
+407,2024,MI,Mid-level,FT,Full-Time,Data Scientist,51525,ES,Spain,0,On-site,M,Medium
+408,2020,EX,Executive,FT,Full-Time,Senior Data Analyst,89905,IT,Italy,0,On-site,S,Small
+409,2024,EN,Entry-level,CT,Contract,Analytics Engineer,49678,FR,France,100,Remote,M,Medium
+410,2022,SE,Senior,FT,Full-Time,Chief Data Officer,202926,US,United States,100,Remote,L,Large
+411,2022,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,119948,US,United States,0,On-site,M,Medium
+412,2020,SE,Senior,FT,Full-Time,Business Intelligence Analyst,55167,DE,Germany,100,Remote,L,Large
+413,2023,EX,Executive,FT,Full-Time,Data Analyst,91548,DE,Germany,50,Hybrid,M,Medium
+414,2024,EN,Entry-level,FT,Full-Time,Analytics Engineer,76388,US,United States,0,On-site,M,Medium
+415,2021,EN,Entry-level,FT,Full-Time,Quantitative Analyst,106396,US,United States,100,Remote,L,Large
+416,2023,EX,Executive,FT,Full-Time,Quantitative Analyst,136369,US,United States,100,Remote,M,Medium
+417,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,98400,US,United States,0,On-site,M,Medium
+418,2021,MI,Mid-level,PT,Part-Time,Analytics Engineer,111977,US,United States,50,Hybrid,M,Medium
+419,2022,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,50554,DE,Germany,0,On-site,L,Large
+420,2022,EX,Executive,FT,Full-Time,Quantitative Analyst,221348,US,United States,100,Remote,S,Small
+421,2021,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,37121,ES,Spain,50,Hybrid,M,Medium
+422,2022,EX,Executive,FT,Full-Time,Data Science Manager,189898,US,United States,100,Remote,M,Medium
+423,2023,EN,Entry-level,FT,Full-Time,Senior Data Scientist,116801,US,United States,0,On-site,L,Large
+424,2024,EX,Executive,CT,Contract,Data Scientist,169633,AU,Australia,50,Hybrid,M,Medium
+425,2021,MI,Mid-level,FT,Full-Time,Data Scientist,110293,US,United States,50,Hybrid,L,Large
+426,2024,EX,Executive,CT,Contract,Business Intelligence Analyst,137120,US,United States,0,On-site,L,Large
+427,2024,MI,Mid-level,CT,Contract,Senior Data Scientist,110333,US,United States,0,On-site,L,Large
+428,2024,EN,Entry-level,FT,Full-Time,BI Developer,14278,IN,India,0,On-site,L,Large
+429,2024,SE,Senior,PT,Part-Time,Senior Data Scientist,147054,US,United States,100,Remote,M,Medium
+430,2024,EX,Executive,FT,Full-Time,Senior Data Scientist,129757,PT,Portugal,50,Hybrid,L,Large
+431,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,102798,US,United States,100,Remote,M,Medium
+432,2022,SE,Senior,FT,Full-Time,Data Science Manager,149042,US,United States,100,Remote,L,Large
+433,2021,MI,Mid-level,CT,Contract,Data Analyst,79567,US,United States,0,On-site,L,Large
+434,2021,EN,Entry-level,FT,Full-Time,Data Science Manager,102689,US,United States,0,On-site,L,Large
+435,2021,SE,Senior,FT,Full-Time,BI Developer,86496,US,United States,50,Hybrid,M,Medium
+436,2023,MI,Mid-level,FT,Full-Time,Data Engineer,80362,US,United States,0,On-site,M,Medium
+437,2024,SE,Senior,FT,Full-Time,Senior Data Analyst,127234,US,United States,100,Remote,S,Small
+438,2021,EX,Executive,FT,Full-Time,Analytics Engineer,131149,IT,Italy,100,Remote,M,Medium
+439,2023,SE,Senior,FT,Full-Time,Senior Data Analyst,140474,US,United States,100,Remote,L,Large
+440,2022,MI,Mid-level,FT,Full-Time,Data Scientist,54357,PL,Poland,50,Hybrid,S,Small
+441,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,63752,AU,Australia,0,On-site,M,Medium
+442,2022,MI,Mid-level,FT,Full-Time,Senior Data Analyst,91708,US,United States,100,Remote,S,Small
+443,2021,EN,Entry-level,FT,Full-Time,Data Science Manager,78038,DE,Germany,0,On-site,L,Large
+444,2021,MI,Mid-level,CT,Contract,Data Science Manager,146218,FR,France,100,Remote,L,Large
+445,2023,EX,Executive,CT,Contract,Business Intelligence Analyst,112424,US,United States,100,Remote,M,Medium
+446,2023,EX,Executive,FT,Full-Time,Data Architect,197402,US,United States,100,Remote,M,Medium
+447,2020,SE,Senior,PT,Part-Time,Quantitative Analyst,125291,US,United States,0,On-site,L,Large
+448,2021,EN,Entry-level,PT,Part-Time,Data Scientist,65800,GB,United Kingdom,100,Remote,L,Large
+449,2022,EX,Executive,FT,Full-Time,Data Analyst,131730,US,United States,0,On-site,M,Medium
+450,2021,EN,Entry-level,FT,Full-Time,Business Intelligence Analyst,14373,IN,India,100,Remote,M,Medium
+451,2022,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,53273,US,United States,0,On-site,L,Large
+452,2024,MI,Mid-level,PT,Part-Time,Data Scientist,43781,GR,Greece,0,On-site,M,Medium
+453,2024,SE,Senior,FT,Full-Time,Data Analyst,14660,IN,India,50,Hybrid,S,Small
+454,2023,SE,Senior,CT,Contract,Data Scientist,108058,US,United States,50,Hybrid,M,Medium
+455,2023,MI,Mid-level,FT,Full-Time,Data Architect,114387,US,United States,50,Hybrid,L,Large
+456,2024,EX,Executive,CT,Contract,Data Engineer,158462,GB,United Kingdom,100,Remote,M,Medium
+457,2020,MI,Mid-level,FT,Full-Time,Senior Data Analyst,74477,US,United States,50,Hybrid,S,Small
+458,2023,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,61626,DE,Germany,50,Hybrid,M,Medium
+459,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,61050,CA,Canada,50,Hybrid,L,Large
+460,2022,SE,Senior,FT,Full-Time,Data Architect,128809,CA,Canada,100,Remote,M,Medium
+461,2024,EN,Entry-level,FT,Full-Time,Data Scientist,55001,GR,Greece,0,On-site,L,Large
+462,2022,EN,Entry-level,FT,Full-Time,Data Analyst,41005,CA,Canada,100,Remote,M,Medium
+463,2021,MI,Mid-level,FT,Full-Time,Data Scientist,110228,GB,United Kingdom,100,Remote,L,Large
+464,2024,EN,Entry-level,FT,Full-Time,Data Analyst,43866,AU,Australia,50,Hybrid,L,Large
+465,2023,SE,Senior,FT,Full-Time,Data Science Manager,130246,NL,Netherlands,100,Remote,M,Medium
+466,2021,MI,Mid-level,FT,Full-Time,Data Analyst,74640,US,United States,50,Hybrid,L,Large
+467,2024,MI,Mid-level,FT,Full-Time,Senior Data Engineer,126141,US,United States,0,On-site,L,Large
+468,2023,EX,Executive,FT,Full-Time,Data Engineer,37508,IN,India,0,On-site,L,Large
+469,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,83154,FR,France,100,Remote,L,Large
+470,2023,MI,Mid-level,FT,Full-Time,Data Analyst,44026,US,United States,0,On-site,S,Small
+471,2021,EX,Executive,FT,Full-Time,Data Analyst,102127,US,United States,50,Hybrid,L,Large
+472,2024,EX,Executive,PT,Part-Time,Senior Data Engineer,274313,US,United States,50,Hybrid,M,Medium
+473,2024,EX,Executive,CT,Contract,BI Developer,44715,GR,Greece,50,Hybrid,L,Large
+474,2023,MI,Mid-level,FT,Full-Time,BI Developer,73755,US,United States,100,Remote,L,Large
+475,2023,SE,Senior,FT,Full-Time,Data Analyst,93864,US,United States,100,Remote,M,Medium
+476,2023,EX,Executive,FT,Full-Time,Data Scientist,145920,CA,Canada,0,On-site,M,Medium
+477,2024,MI,Mid-level,FT,Full-Time,Data Scientist,79233,CA,Canada,0,On-site,M,Medium
+478,2024,EN,Entry-level,CT,Contract,Machine Learning Engineer,85023,DE,Germany,100,Remote,L,Large
+479,2024,EX,Executive,PT,Part-Time,Senior Data Analyst,107231,AU,Australia,100,Remote,S,Small
+480,2023,EX,Executive,FT,Full-Time,Data Science Manager,284274,US,United States,100,Remote,L,Large
+481,2024,SE,Senior,CT,Contract,Senior Data Engineer,197281,US,United States,50,Hybrid,S,Small
+482,2021,EN,Entry-level,FT,Full-Time,Senior Data Engineer,145789,US,United States,0,On-site,L,Large
+483,2024,EN,Entry-level,CT,Contract,Business Intelligence Analyst,36217,US,United States,0,On-site,L,Large
+484,2022,MI,Mid-level,FT,Full-Time,Senior Data Scientist,91982,CA,Canada,50,Hybrid,L,Large
+485,2023,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,112465,CA,Canada,50,Hybrid,M,Medium
+486,2022,EX,Executive,CT,Contract,Senior Data Engineer,191837,CA,Canada,0,On-site,L,Large
+487,2024,MI,Mid-level,FT,Full-Time,Quantitative Analyst,135376,US,United States,50,Hybrid,M,Medium
+488,2022,SE,Senior,PT,Part-Time,Data Engineer,82212,FR,France,100,Remote,M,Medium
+489,2022,MI,Mid-level,FT,Full-Time,Senior Data Analyst,17590,IN,India,0,On-site,M,Medium
+490,2020,EN,Entry-level,FT,Full-Time,Data Science Manager,84876,GB,United Kingdom,0,On-site,S,Small
+491,2024,EN,Entry-level,CT,Contract,Business Intelligence Analyst,58148,US,United States,100,Remote,M,Medium
+492,2023,EN,Entry-level,FT,Full-Time,Data Analyst,45535,US,United States,50,Hybrid,L,Large
+493,2024,EX,Executive,FT,Full-Time,Data Analyst,87550,US,United States,100,Remote,M,Medium
+494,2024,EX,Executive,FT,Full-Time,Data Analyst,82160,ES,Spain,50,Hybrid,L,Large
+495,2021,SE,Senior,CT,Contract,Data Scientist,55768,PT,Portugal,100,Remote,S,Small
+496,2024,MI,Mid-level,PT,Part-Time,Data Analyst,41457,GR,Greece,100,Remote,L,Large
+497,2021,EX,Executive,FT,Full-Time,Machine Learning Engineer,131624,NL,Netherlands,0,On-site,S,Small
+498,2020,MI,Mid-level,FT,Full-Time,Data Engineer,72010,GB,United Kingdom,50,Hybrid,M,Medium
+499,2022,SE,Senior,FT,Full-Time,Senior Data Analyst,85013,US,United States,0,On-site,S,Small
+500,2022,EN,Entry-level,FT,Full-Time,Data Analyst,34076,US,United States,50,Hybrid,L,Large
+501,2024,SE,Senior,FT,Full-Time,Data Architect,140316,US,United States,100,Remote,L,Large
+502,2021,EN,Entry-level,CT,Contract,Senior Data Engineer,24832,IN,India,50,Hybrid,M,Medium
+503,2021,EX,Executive,FT,Full-Time,Data Analyst,92946,US,United States,0,On-site,S,Small
+504,2021,EX,Executive,FT,Full-Time,Data Analyst,92080,US,United States,50,Hybrid,L,Large
+505,2022,MI,Mid-level,CT,Contract,Data Scientist,101572,US,United States,100,Remote,M,Medium
+506,2022,EN,Entry-level,PT,Part-Time,Data Engineer,27789,BR,Brazil,50,Hybrid,M,Medium
+507,2021,MI,Mid-level,FT,Full-Time,BI Developer,53683,US,United States,100,Remote,L,Large
+508,2022,EN,Entry-level,FT,Full-Time,Quantitative Analyst,75142,US,United States,0,On-site,M,Medium
+509,2022,EX,Executive,FT,Full-Time,Business Intelligence Analyst,76104,US,United States,100,Remote,L,Large
+510,2024,SE,Senior,FT,Full-Time,Business Intelligence Analyst,51811,AU,Australia,50,Hybrid,M,Medium
+511,2023,EN,Entry-level,FT,Full-Time,Senior Data Engineer,87352,AU,Australia,50,Hybrid,L,Large
+512,2024,EX,Executive,CT,Contract,Senior Data Analyst,174657,US,United States,50,Hybrid,M,Medium
+513,2024,MI,Mid-level,CT,Contract,Data Scientist,45934,GR,Greece,100,Remote,L,Large
+514,2024,SE,Senior,FT,Full-Time,Business Intelligence Analyst,83778,US,United States,0,On-site,L,Large
+515,2020,SE,Senior,FT,Full-Time,Business Intelligence Analyst,52158,PL,Poland,50,Hybrid,M,Medium
+516,2021,EX,Executive,CT,Contract,Chief Data Officer,242117,GB,United Kingdom,0,On-site,L,Large
+517,2023,EX,Executive,FT,Full-Time,Analytics Engineer,152657,DE,Germany,50,Hybrid,L,Large
+518,2020,EN,Entry-level,FT,Full-Time,Business Intelligence Analyst,38098,US,United States,50,Hybrid,M,Medium
+519,2023,EN,Entry-level,FT,Full-Time,Senior Data Analyst,67093,US,United States,100,Remote,M,Medium
+520,2021,EN,Entry-level,FT,Full-Time,Business Intelligence Analyst,25731,PT,Portugal,100,Remote,L,Large
+521,2023,SE,Senior,PT,Part-Time,Data Engineer,130636,DE,Germany,50,Hybrid,L,Large
+522,2022,EN,Entry-level,CT,Contract,BI Developer,52958,GB,United Kingdom,100,Remote,L,Large
+523,2023,MI,Mid-level,PT,Part-Time,BI Developer,90519,US,United States,0,On-site,L,Large
+524,2024,SE,Senior,CT,Contract,Data Engineer,147373,CA,Canada,100,Remote,M,Medium
+525,2021,SE,Senior,FT,Full-Time,Data Science Manager,139748,CA,Canada,50,Hybrid,L,Large
+526,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,62979,PT,Portugal,50,Hybrid,S,Small
+527,2023,SE,Senior,FT,Full-Time,Data Architect,139926,DE,Germany,0,On-site,L,Large
+528,2023,MI,Mid-level,FT,Full-Time,Data Analyst,65873,US,United States,50,Hybrid,S,Small
+529,2024,EN,Entry-level,FT,Full-Time,Data Science Manager,120690,US,United States,100,Remote,L,Large
+530,2022,SE,Senior,FT,Full-Time,Senior Data Analyst,80796,GB,United Kingdom,0,On-site,L,Large
+531,2021,SE,Senior,PT,Part-Time,Senior Data Analyst,35497,IN,India,100,Remote,M,Medium
+532,2021,EX,Executive,CT,Contract,Data Engineer,184038,US,United States,0,On-site,L,Large
+533,2024,SE,Senior,FT,Full-Time,Chief Data Officer,348902,US,United States,100,Remote,S,Small
+534,2022,EX,Executive,FT,Full-Time,Senior Data Analyst,113258,IT,Italy,0,On-site,S,Small
+535,2024,EN,Entry-level,FT,Full-Time,Senior Data Engineer,103188,FR,France,0,On-site,M,Medium
+536,2021,EN,Entry-level,CT,Contract,Analytics Engineer,60670,PT,Portugal,50,Hybrid,M,Medium
+537,2022,EX,Executive,FT,Full-Time,Senior Data Engineer,148040,FR,France,50,Hybrid,S,Small
+538,2020,EN,Entry-level,FT,Full-Time,Data Science Manager,95610,US,United States,50,Hybrid,M,Medium
+539,2022,SE,Senior,FT,Full-Time,Senior Data Scientist,176865,GB,United Kingdom,100,Remote,S,Small
+540,2023,SE,Senior,FT,Full-Time,Senior Data Analyst,115346,US,United States,100,Remote,M,Medium
+541,2022,MI,Mid-level,FT,Full-Time,Data Architect,31500,IN,India,50,Hybrid,L,Large
+542,2022,MI,Mid-level,FT,Full-Time,Data Scientist,113378,US,United States,0,On-site,M,Medium
+543,2021,EX,Executive,PT,Part-Time,Senior Data Scientist,138418,CA,Canada,50,Hybrid,M,Medium
+544,2024,SE,Senior,PT,Part-Time,Senior Data Engineer,137842,NL,Netherlands,50,Hybrid,M,Medium
+545,2022,SE,Senior,FT,Full-Time,BI Developer,89599,US,United States,100,Remote,M,Medium
+546,2023,MI,Mid-level,PT,Part-Time,Quantitative Analyst,130197,US,United States,100,Remote,L,Large
+547,2021,EX,Executive,FT,Full-Time,Data Analyst,86284,US,United States,50,Hybrid,S,Small
+548,2024,EN,Entry-level,PT,Part-Time,Business Intelligence Analyst,42795,NL,Netherlands,100,Remote,L,Large
+549,2024,EN,Entry-level,FT,Full-Time,Quantitative Analyst,60094,DE,Germany,100,Remote,L,Large
+550,2020,MI,Mid-level,FT,Full-Time,Senior Data Engineer,110703,CA,Canada,50,Hybrid,L,Large
+551,2024,SE,Senior,FT,Full-Time,Quantitative Analyst,185047,US,United States,0,On-site,L,Large
+552,2024,EN,Entry-level,FT,Full-Time,Data Engineer,60329,CA,Canada,0,On-site,M,Medium
+553,2023,EN,Entry-level,PT,Part-Time,Data Architect,95012,US,United States,0,On-site,M,Medium
+554,2020,MI,Mid-level,PT,Part-Time,Data Scientist,100761,US,United States,0,On-site,M,Medium
+555,2022,SE,Senior,PT,Part-Time,Senior Data Analyst,117082,US,United States,100,Remote,L,Large
+556,2024,EX,Executive,FT,Full-Time,Data Analyst,84003,GB,United Kingdom,50,Hybrid,S,Small
+557,2024,EN,Entry-level,CT,Contract,Chief Data Officer,206839,GB,United Kingdom,50,Hybrid,S,Small
+558,2024,EN,Entry-level,CT,Contract,Data Engineer,75285,GB,United Kingdom,100,Remote,S,Small
+559,2024,MI,Mid-level,FT,Full-Time,Machine Learning Engineer,165535,US,United States,50,Hybrid,L,Large
+560,2024,SE,Senior,PT,Part-Time,Chief Data Officer,281730,US,United States,0,On-site,S,Small
+561,2023,MI,Mid-level,FT,Full-Time,Senior Data Analyst,68605,US,United States,50,Hybrid,S,Small
+562,2023,SE,Senior,FT,Full-Time,BI Developer,65730,US,United States,0,On-site,L,Large
+563,2022,EX,Executive,FT,Full-Time,Machine Learning Engineer,216754,GB,United Kingdom,0,On-site,S,Small
+564,2021,EX,Executive,CT,Contract,Data Science Manager,250567,NL,Netherlands,50,Hybrid,M,Medium
+565,2024,EN,Entry-level,FT,Full-Time,BI Developer,59092,CA,Canada,0,On-site,L,Large
+566,2021,SE,Senior,CT,Contract,Data Scientist,120736,US,United States,50,Hybrid,L,Large
+567,2020,MI,Mid-level,CT,Contract,Data Scientist,107369,US,United States,100,Remote,M,Medium
+568,2024,SE,Senior,FT,Full-Time,Quantitative Analyst,142189,DE,Germany,0,On-site,L,Large
+569,2024,MI,Mid-level,FT,Full-Time,Senior Data Analyst,79939,US,United States,50,Hybrid,M,Medium
+570,2023,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,66091,GB,United Kingdom,50,Hybrid,S,Small
+571,2024,EN,Entry-level,FT,Full-Time,Senior Data Analyst,89857,US,United States,0,On-site,L,Large
+572,2021,EN,Entry-level,CT,Contract,Analytics Engineer,61281,GR,Greece,50,Hybrid,M,Medium
+573,2024,MI,Mid-level,FT,Full-Time,Data Analyst,83417,US,United States,100,Remote,M,Medium
+574,2024,EX,Executive,FT,Full-Time,Data Architect,174316,AU,Australia,50,Hybrid,L,Large
+575,2024,EX,Executive,PT,Part-Time,Business Intelligence Analyst,67172,DE,Germany,100,Remote,S,Small
+576,2023,EX,Executive,FT,Full-Time,Data Engineer,158162,CA,Canada,100,Remote,L,Large
+577,2022,MI,Mid-level,FT,Full-Time,Data Architect,125508,DE,Germany,0,On-site,M,Medium
+578,2024,EX,Executive,FT,Full-Time,Senior Data Analyst,115659,US,United States,100,Remote,M,Medium
+579,2022,EX,Executive,FT,Full-Time,Senior Data Analyst,166936,US,United States,50,Hybrid,M,Medium
+580,2024,EN,Entry-level,PT,Part-Time,Business Intelligence Analyst,51802,DE,Germany,50,Hybrid,S,Small
+581,2023,EX,Executive,FT,Full-Time,Senior Data Scientist,146294,DE,Germany,0,On-site,L,Large
+582,2020,EN,Entry-level,FT,Full-Time,Data Analyst,33245,US,United States,0,On-site,M,Medium
+583,2024,MI,Mid-level,FT,Full-Time,BI Developer,69929,US,United States,100,Remote,S,Small
+584,2020,SE,Senior,FT,Full-Time,BI Developer,87419,US,United States,50,Hybrid,L,Large
+585,2024,SE,Senior,FT,Full-Time,Data Scientist,110898,AU,Australia,100,Remote,L,Large
+586,2022,MI,Mid-level,FT,Full-Time,Data Engineer,138228,US,United States,100,Remote,M,Medium
+587,2023,EN,Entry-level,FT,Full-Time,Machine Learning Engineer,91283,US,United States,100,Remote,S,Small
+588,2023,SE,Senior,FT,Full-Time,Data Analyst,41095,ES,Spain,100,Remote,M,Medium
+589,2020,SE,Senior,FT,Full-Time,Chief Data Officer,251551,US,United States,50,Hybrid,M,Medium
+590,2023,EX,Executive,FT,Full-Time,Data Architect,177975,US,United States,50,Hybrid,L,Large
+591,2024,EX,Executive,FT,Full-Time,Data Analyst,60698,CA,Canada,50,Hybrid,S,Small
+592,2022,EN,Entry-level,FT,Full-Time,Business Intelligence Analyst,55285,US,United States,50,Hybrid,L,Large
+593,2024,EN,Entry-level,FT,Full-Time,Data Architect,123400,US,United States,0,On-site,L,Large
+594,2020,EN,Entry-level,PT,Part-Time,Data Analyst,34866,PT,Portugal,0,On-site,M,Medium
+595,2023,EN,Entry-level,FT,Full-Time,Quantitative Analyst,87751,US,United States,100,Remote,S,Small
+596,2023,EX,Executive,FT,Full-Time,Chief Data Officer,429970,US,United States,100,Remote,L,Large
+597,2020,EN,Entry-level,FT,Full-Time,Chief Data Officer,143698,GB,United Kingdom,100,Remote,S,Small
+598,2024,MI,Mid-level,FT,Full-Time,Business Intelligence Analyst,38420,ES,Spain,0,On-site,S,Small
+599,2023,SE,Senior,FT,Full-Time,Senior Data Scientist,107381,NL,Netherlands,50,Hybrid,M,Medium
+600,2023,EN,Entry-level,FT,Full-Time,Quantitative Analyst,78858,US,United States,0,On-site,M,Medium
