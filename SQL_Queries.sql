@@ -9,7 +9,7 @@
 -- ============================================================
 -- 0. CREATE TABLE
 -- ============================================================
-CREATE TABLE IF NOT EXISTS ds_salaries (
+CREATE TABLE IF NOT EXISTS ds_salaries_2024 (
     id INTEGER PRIMARY KEY,
     work_year INTEGER,
     experience_level TEXT,   -- EN / MI / SE / EX
@@ -37,7 +37,7 @@ SELECT
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd,
     ROUND(MIN(salary_usd), 0) AS min_salary_usd,
     ROUND(MAX(salary_usd), 0) AS max_salary_usd
-FROM ds_salaries
+FROM ds_salaries_2024
 GROUP BY job_title
 ORDER BY avg_salary_usd DESC;
 
@@ -51,7 +51,7 @@ SELECT
     employee_residence AS country_code,
     COUNT(*) AS total_jobs,
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd
-FROM ds_salaries
+FROM ds_salaries_2024
 GROUP BY country_name
 ORDER BY avg_salary_usd DESC;
 
@@ -66,7 +66,7 @@ SELECT
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd,
     ROUND(MIN(salary_usd), 0) AS min_salary_usd,
     ROUND(MAX(salary_usd), 0) AS max_salary_usd
-FROM ds_salaries
+FROM ds_salaries_2024
 GROUP BY experience_label
 ORDER BY avg_salary_usd DESC;
 
@@ -79,8 +79,8 @@ SELECT
     remote_label,
     COUNT(*) AS total_jobs,
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd,
-    ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM ds_salaries), 1) AS percentage
-FROM ds_salaries
+    ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM ds_salaries_2024), 1) AS percentage
+FROM ds_salaries_2024
 GROUP BY remote_label
 ORDER BY total_jobs DESC;
 
@@ -93,7 +93,7 @@ SELECT
     work_year,
     COUNT(*) AS total_jobs,
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd
-FROM ds_salaries
+FROM ds_salaries_2024
 GROUP BY work_year
 ORDER BY work_year ASC;
 
@@ -107,7 +107,7 @@ SELECT
     country_name,
     remote_label,
     salary_usd
-FROM ds_salaries
+FROM ds_salaries_2024
 ORDER BY salary_usd DESC
 LIMIT 10;
 
@@ -122,7 +122,7 @@ SELECT
     remote_label,
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd,
     COUNT(*) AS count
-FROM ds_salaries
+FROM ds_salaries_2024
 WHERE job_title IN ('Data Analyst', 'Senior Data Analyst')
 GROUP BY experience_label, country_name, remote_label
 ORDER BY avg_salary_usd DESC
@@ -139,7 +139,7 @@ SELECT
     ROUND(AVG(salary_usd), 0) AS avg_salary_usd,
     ROUND(MIN(salary_usd), 0) AS min_salary_usd,
     ROUND(MAX(salary_usd), 0) AS max_salary_usd
-FROM ds_salaries
+FROM ds_salaries_2024
 GROUP BY company_size_label
 ORDER BY avg_salary_usd DESC;
 
@@ -155,7 +155,7 @@ SELECT
     salary_usd,
     RANK() OVER (PARTITION BY job_title ORDER BY salary_usd DESC) AS salary_rank,
     ROUND(AVG(salary_usd) OVER (PARTITION BY job_title), 0) AS avg_salary_in_role
-FROM ds_salaries
+FROM ds_salaries_2024
 ORDER BY job_title, salary_rank;
 
 
@@ -171,7 +171,7 @@ SELECT
     ROUND((AVG(salary_usd) - LAG(AVG(salary_usd))
         OVER (ORDER BY work_year)) /
         LAG(AVG(salary_usd)) OVER (ORDER BY work_year) * 100, 1) AS yoy_growth_pct
-FROM ds_salaries
+FROM ds_salaries_2024
 GROUP BY work_year
 ORDER BY work_year;
 
@@ -182,14 +182,14 @@ ORDER BY work_year;
 -- ============================================================
 WITH market_avg AS (
     SELECT ROUND(AVG(salary_usd), 0) AS overall_avg
-    FROM ds_salaries
+    FROM ds_salaries_2024
 ),
 role_avg AS (
     SELECT
         job_title,
         COUNT(*) AS total_jobs,
         ROUND(AVG(salary_usd), 0) AS avg_salary
-    FROM ds_salaries
+    FROM ds_salaries_2024
     GROUP BY job_title
 )
 SELECT
@@ -222,7 +222,7 @@ SELECT
         WHEN salary_usd < 200000 THEN 'Lead Band'
         ELSE                          'Executive Band'
     END AS salary_tier
-FROM ds_salaries
+FROM ds_salaries_2024
 ORDER BY salary_usd DESC;
 
 
@@ -239,12 +239,12 @@ WITH tiered AS (
             WHEN salary_usd < 200000 THEN 'Lead Band'
             ELSE                          'Executive Band'
         END AS salary_tier
-    FROM ds_salaries
+    FROM ds_salaries_2024
 )
 SELECT
     salary_tier,
     COUNT(*) AS total_jobs,
-    ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM ds_salaries), 1) AS percentage
+    ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM ds_salaries_2024), 1) AS percentage
 FROM tiered
 GROUP BY salary_tier
 ORDER BY total_jobs DESC;
